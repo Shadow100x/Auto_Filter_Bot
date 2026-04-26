@@ -237,7 +237,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 ⚜️ <b>Powered By : <a href="https://t.me/CineVerseUpdates10x">[ CɪɴᴇVᴇʀsᴇ Uᴘᴅᴀᴛᴇs ]</a></b>
 
-🤖 <b>Use <a href=https://t.me/{}>{}</a> for more</b>
+🤖 <b>Use @cineverse10xbot for more</b>
 """
 
     
