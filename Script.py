@@ -229,7 +229,16 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/CineVerseUpdates10x">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/CineVerseUpdates10x">[ CɪɴᴇVᴇʀsᴇ Uᴘᴅᴀᴛᴇs ]</a></b>"""
+    CAPTION = """<b>📁 File Name:</b> <code>{file_name}</code>
+
+━━━━━━━━━━━━━━━━━━
+
+<b>✅ IMPORTANT !!</b>
+
+⚜️ <b>Powered by : <a href="https://t.me/CineVerseUpdates10x">[ CɪɴᴇVᴇʀsᴇ Uᴘᴅᴀᴛᴇs ]</a></b>
+
+🤖 <b>Use @CineVerse for more</b>
+"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
